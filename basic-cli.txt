@@ -1,0 +1,7 @@
+Basic CLI Commands::
+>> mkdir
+>> touch
+>> rm
+>> cat
+>> head
+>> less
