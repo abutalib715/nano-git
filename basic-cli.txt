@@ -5,3 +5,5 @@ Basic CLI Commands::
 >> cat
 >> head
 >> less
+>> cd
+>> pwd
